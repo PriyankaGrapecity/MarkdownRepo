@@ -6,7 +6,6 @@
 *Bullet 2 
 
 Paragraph Text
-```C++
-This is a code
+```C
 print b
 ```
