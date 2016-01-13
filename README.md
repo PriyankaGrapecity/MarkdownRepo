@@ -6,3 +6,7 @@
 *Bullet 2 
 
 Paragraph Text
+```
+This is a code
+print b
+```
