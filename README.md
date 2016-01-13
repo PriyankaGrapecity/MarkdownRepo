@@ -7,5 +7,5 @@
 
 Paragraph Text
 ```C
-print b
+printf("Hello, World! \n");
 ```
