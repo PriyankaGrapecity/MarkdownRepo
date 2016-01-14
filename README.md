@@ -13,3 +13,5 @@ printf("Hello, World! \n");
 
 ## Office Hours
 Ask me anything on [this page] (https://www.google.co.in/) .
+
+Sample Image  ![this image](C:\Users\blueman101\Desktop\download.jpg)
