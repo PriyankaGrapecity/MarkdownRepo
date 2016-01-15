@@ -12,6 +12,6 @@ printf("Hello, World! \n");
 
 
 ## Office Hours
-Ask me anything on [this page] (https://github.com/PriyankaGrapecity/MarkdownRepo/blob/master/index.html) .
+Ask me anything on [this page] (https://github.com/PriyankaGrapecity/MarkdownRepo/blob/master/index.md) .
 
 
